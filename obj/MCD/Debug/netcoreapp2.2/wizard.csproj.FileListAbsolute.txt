@@ -1,0 +1,11 @@
+C:\Users\KNOWN\Documents\immersion\wizard\obj\MCD\Debug\netcoreapp2.2\wizard.csprojAssemblyReference.cache
+C:\Users\KNOWN\Documents\immersion\wizard\obj\MCD\Debug\netcoreapp2.2\wizard.csproj.CoreCompileInputs.cache
+C:\Users\KNOWN\Documents\immersion\wizard\obj\MCD\Debug\netcoreapp2.2\wizard.AssemblyInfoInputs.cache
+C:\Users\KNOWN\Documents\immersion\wizard\obj\MCD\Debug\netcoreapp2.2\wizard.AssemblyInfo.cs
+C:\Users\KNOWN\Documents\immersion\wizard\bin\MCD\Debug\netcoreapp2.2\wizard.deps.json
+C:\Users\KNOWN\Documents\immersion\wizard\bin\MCD\Debug\netcoreapp2.2\wizard.runtimeconfig.json
+C:\Users\KNOWN\Documents\immersion\wizard\bin\MCD\Debug\netcoreapp2.2\wizard.runtimeconfig.dev.json
+C:\Users\KNOWN\Documents\immersion\wizard\bin\MCD\Debug\netcoreapp2.2\wizard.dll
+C:\Users\KNOWN\Documents\immersion\wizard\bin\MCD\Debug\netcoreapp2.2\wizard.pdb
+C:\Users\KNOWN\Documents\immersion\wizard\obj\MCD\Debug\netcoreapp2.2\wizard.dll
+C:\Users\KNOWN\Documents\immersion\wizard\obj\MCD\Debug\netcoreapp2.2\wizard.pdb
